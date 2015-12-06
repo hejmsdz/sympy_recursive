@@ -1,6 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from setuptools import setup
 
-setup(name='SymPy Recursive',
+setup(name='sympy_recursive',
       version='0.1',
       description='Resolve recursive sequences to explicit nth item formulas with SymPy.',
       url='http://github.com/hejmsdz/sympy_recursive',
